@@ -2,7 +2,7 @@
 
 ### Description
 
-This is a description of the project.
+This is project take inputs of item's price and money tendered and then returns the appropriate change with the largest bill and coin denominations as possible.
 
 ### Topics and Technologies Used
 
